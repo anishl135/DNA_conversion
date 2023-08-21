@@ -45,14 +45,14 @@ The application window will open, allowing you to input and process DNA sequence
 Example
 Here's an example of a valid input and its output:
 
-   ```bash
-Input: ATGCTA   
+  
+      Input: ATGCTA   
 
-Output:
-mRNA Sequence: UACGAU
-Complementary Strand: TACGAT
-tRNA Sequence: UACGAU
-Protein Sequence: Tyr-Arg
+      Output:
+      mRNA Sequence: UACGAU
+      Complementary Strand: TACGAT
+      tRNA Sequence: UACGAU
+      Protein Sequence: Tyr-Arg
 
 
 Author
