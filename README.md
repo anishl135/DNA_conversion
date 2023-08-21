@@ -45,7 +45,8 @@ Example
 Here's an example of a valid input and its output:
 
     ```bash
-    Input: ATGCTA   
+   
+      Input: ATGCTA   
     
     Output:
 
