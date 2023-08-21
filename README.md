@@ -38,22 +38,21 @@ To run the DNA Sequence Processor, make sure you have Python installed on your s
 
 3. Run the following command to start the application:
 
-   ```bash
+   ```bash                    
    python dna_gui.py
+
 The application window will open, allowing you to input and process DNA sequences.
 Example
 Here's an example of a valid input and its output:
 
-    ```bash
-   
-      Input: ATGCTA   
-    
-    Output:
+   ```bash
+Input: ATGCTA   
 
-    mRNA Sequence: UACGAU
-    Complementary Strand: TACGAT
-    tRNA Sequence: UACGAU
-    Protein Sequence: Tyr-Arg
+Output:
+mRNA Sequence: UACGAU
+Complementary Strand: TACGAT
+tRNA Sequence: UACGAU
+Protein Sequence: Tyr-Arg
 
 
 Author
@@ -62,6 +61,7 @@ This DNA Sequence Processor was developed by Anish.
 Feel free to contribute to this project or report any issues you encounter.
 
 Happy DNA processing!
+
 
 
 
